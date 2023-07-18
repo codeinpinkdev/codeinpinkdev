@@ -1,13 +1,17 @@
-<!--Barra-->
+<!--- Snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-<!--Termina Barra-->
+
 
 <!--Primer Bloque-->
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 𝐈'𝐦 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚
 </𝚌𝚘𝚍𝚎𝚛𝚜>
   
   </h1>
-  <br>
+
 <!--Termina el primer bloque. -->
 <img align="left" src="https://orhun.dev/img/crow.png">
 
@@ -19,11 +23,7 @@ Passionate about **GNU/Linux**. Likes to write code. **Scroll down!**
 
 <br>
 
-<!--- Snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 <h1>🙋 About me</h1>
 
@@ -76,6 +76,13 @@ func GetBio() Bio {
 </td></tr></table>
 <!--Tabla con los Stats-->
 
+<!--- Tabla de trofeos -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=codeinpinkdev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 
 <h1>💖 Get in touch</h1>
 
