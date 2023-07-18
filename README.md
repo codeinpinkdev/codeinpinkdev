@@ -1,16 +1,20 @@
-### Hi there 👋
+```js
+import SoftwareDeveloper from 'codeinpink';
 
-<!--
-**codeinpinkdev/codeinpinkdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Bio extends SoftwareDeveloper {
+  name     = 'Patricia Velazquez';
+  title    = 'Software Engineer';
+  company  = 'Grupo ABG | Hybrid';
+  location = 'México';
+}
 
-Here are some ideas to get you started:
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'PHP',''];
+  databases  = ['MySQL', 'SQLServer', 'PostgreSQL'];
+  frameworks = ['Node.js', 'Bunifu', 'Laravel', 'Bootstrap','Astro'];
+}
+```
+----
+Credit: [codeinpink](https://codeinpink.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Last Edited on: 18/07/2023
