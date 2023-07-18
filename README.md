@@ -1,19 +1,31 @@
-<!--Primer Bloquen-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--Barra-->
 
-<!--h1 without bottom border-->
+<!--Termina Barra-->
+
+<!--Primer Bloque-->
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 𝐈'𝐦 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚
 </𝚌𝚘𝚍𝚎𝚛𝚜>
   
   </h1>
   <br>
+<!--Termina el primer bloque. -->
+<img align="left" src="https://orhun.dev/img/crow.png">
 
+![](https://komarev.com/ghpvc/?username=codeinpinkdev&color=ff69b4&label=💜_Nice_To_Meet_U!_You+are+my+visitor+No.)  
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/codeinpinkdev?label=Followers&style=social">    
+  <img src="https://img.shields.io/github/stars/codeinpinkdev?label=Stars" alt="Total Stars">
+
+Passionate about **GNU/Linux**. Likes to write code. **Scroll down!**
+
+<br>
 
 <!--- Snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+<h1>🙋 About me</h1>
 
 ```golang
 package main
@@ -33,8 +45,8 @@ func main() {
 func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                    "A kind of metalHead-synthWave-cyberPunk-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
+		"- 🔭 I’m currently working on":      ".NET Software Developer --- Grupo ABG",
+		"- 🌱 I’m currently learning":        "MongoDB, Azure, NumPy, ",
 		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
@@ -42,30 +54,52 @@ func GetBio() Bio {
 	}
 }
 ```
-### Here's my github README stats:
+<h1>🏆 GitHub Stats</h1>
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
 
-![Patricia GitHub stats](https://github-readme-stats.vercel.app/api?username=codeinpinkdev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codeinpinkdev&theme=radical)](https://git.io/streak-stats) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=codeinpinkdev)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<!--Tabla con los Stats-->
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=codeinpinkdev&custom_title=Stats_Patricia&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://streak-stats.demolab.com/?user=codeinpinkdev&theme=radical&hide_border=true" align="left" style="width: 100%" />
+
+</td></tr></table>
+<!--Tabla con los Stats-->
+
+
+<h1>💖 Get in touch</h1>
 
 ```js
-import SoftwareDeveloper from 'codeinpink';
+import GetInTouch from 'codeinpink';
 
-class Bio extends SoftwareDeveloper {
+class Bio extends GetInTouch {
   website     = 'codeinpink.dev';
   blog = 'codeinpink.dev';
   mail    = 'patriciavelazquez@codeinpink.dev';
-  github page  = 'https://codeinpinkdev.github.io/';
+  github_page  = 'https://codeinpinkdev.github.io/';
 }
 
 ```
 ----
-Credit: [codeinpink](https://codeinpink.dev)
+---
 
-Last Edited on: 18/07/2023
+<img align="right" width="150" src="https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
+
+<div align="center">
+   <img src="https://visitcount.itsvg.in/api?id=pranshu05&icon=0&color=0">
+</div>
+
+------
+
+Credit: [pranshu05](https://github.com/pranshu05)
+Last Edited on: 02/01/2023
