@@ -34,7 +34,7 @@ class Skills extends SoftwareDeveloper {
 ```
 ### Here's my github README stats:
 
-![codeinpink GitHub stats](https://github-readme-stats.vercel.app/api?username=codeinpinkdev&show_icons=true&theme=radical) 
+![Patricia GitHub stats](https://github-readme-stats.vercel.app/api?username=codeinpinkdev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codeinpinkdev&theme=radical)](https://git.io/streak-stats) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=codeinpinkdev)](https://github.com/ryo-ma/github-profile-trophy)
 
