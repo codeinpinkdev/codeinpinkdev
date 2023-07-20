@@ -151,8 +151,9 @@ class Bio extends GetInTouch {
 	<a href="https://www.instagram.com/ppatriciavlz/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 </p>
-
+<!--
 <img align="right" width="150" src="https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
+-->
 
 
 
