@@ -18,7 +18,7 @@
 
 ![](https://komarev.com/ghpvc/?username=codeinpinkdev&color=ff69b4&label=💜_Nice_To_Meet_U!_You+are+my+visitor+No.)  
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/codeinpinkdev?label=Followers&style=social">    
-  <img src="https://img.shields.io/github/stars/codeinpinkdev?label=Stars" alt="Total Stars">
+  <img src="https://codeinpink.dev" alt="Total Stars">
 
 Passionate about **GNU/Linux**. Likes to write code. **Scroll down!**
 
