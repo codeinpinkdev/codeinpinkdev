@@ -18,12 +18,11 @@
 
 ![](https://komarev.com/ghpvc/?username=codeinpinkdev&color=ff69b4&label=💜_Nice_To_Meet_U!_You+are+my+visitor+No.)  
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/codeinpinkdev?label=Followers&style=social">    
-  <img src="https://codeinpink.dev" alt="Total Stars">
+  <img src="https://img.shields.io/github/stars/codeinpinkdev?label=Stars" alt="Total Stars">
 
-Passionate about **GNU/Linux**. Likes to write code. **Scroll down!**
+Develop. Create. Learn.
 
 <br>
-
 
 
 <h1>🙋 About me.</h1>
@@ -45,13 +44,13 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-synthWave-cyberPunk-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
+		"- ⚡ Quick bio:":                    "7 years of experience developingC# and Web applications, technicalsupport and good customer service.My specialty is focused ontechnology, IT project managementand custom developments.Responsible, I always keeplearning and updating myself.",
 		"- 🔭 I’m currently working on":      ".NET Software Developer --- Grupo ABG",
 		"- 🌱 I’m currently learning":        "MongoDB, Azure, NumPy, ",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
+		"- 👯 I’m looking to collaborate on": "Python, C# and Docker related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
+		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev",
+		"- 📫 How to reach me:":              "https://codeinpink.dev",
 	}
 }
 ```
